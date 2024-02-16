@@ -2,4 +2,4 @@ format: jb-book
 root: README
 chapters:
 - file: test
-- file: test00.ipynb
+- file: test00
